@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VlcMediaEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaEditor\Module.VlcMediaEditor.cpp.obj"
+"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaEditor\Module.VlcMediaEditor.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaEditor\UnrealEditor-VlcMediaEditor.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediafactory\\module.vlcmediafactory.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\coreuobject\\sharedpch.coreuobject.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediafactory\\definitions.vlcmediafactory.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediafactory\\vlcmediafactory.init.gen.cpp",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediafactory\\vlcmediasettings.gen.cpp",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\source\\vlcmediafactory\\public\\vlcmediasettings.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediafactory\\vlcmediasettings.generated.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\uobject\\scriptmacros.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\coreuobject\\public\\uobject\\stack.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

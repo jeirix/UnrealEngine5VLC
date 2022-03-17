@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediaeditor\\module.vlcmediaeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediaeditor\\definitions.vlcmediaeditor.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\source\\vlcmediaeditor\\private\\vlcfilemediasourcefactory.cpp",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\source\\vlcmediaeditor\\private\\vlcfilemediasourcefactory.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediaeditor\\vlcfilemediasourcefactory.generated.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\mediaassets\\public\\filemediasource.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\mediaassets\\public\\basemediasource.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\mediaassets\\public\\mediasource.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\source\\runtime\\media\\public\\imediaoptions.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\mediasource.generated.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\basemediasource.generated.h",
+            "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\mediaassets\\filemediasource.generated.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\source\\vlcmediaeditor\\private\\vlcmediaeditormodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

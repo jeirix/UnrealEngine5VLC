@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VlcMediaEditor.cpp.obj": [
+			"VlcFileMediaSourceFactory.cpp.obj",
+			"VlcMediaEditorModule.cpp.obj"
+		],
+		"Module.VlcMediaEditor.gen.cpp.obj": [
+			"VlcFileMediaSourceFactory.gen.cpp.obj",
+			"VlcMediaEditor.init.gen.cpp.obj"
+		]
+	}
+}

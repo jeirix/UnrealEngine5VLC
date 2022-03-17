@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediaeditor\\module.vlcmediaeditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue5pre2\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\development\\vlcmediaeditor\\definitions.vlcmediaeditor.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediaeditor\\vlcfilemediasourcefactory.gen.cpp",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\source\\vlcmediaeditor\\private\\vlcfilemediasourcefactory.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediaeditor\\vlcfilemediasourcefactory.generated.h",
+            "g:\\pluginupgrade\\myproject\\plugins\\vlcmedia\\intermediate\\build\\win64\\unrealeditor\\inc\\vlcmediaeditor\\vlcmediaeditor.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,78 @@
+G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Module.VlcMedia.cpp
+/I .
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMedia\Private
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMedia\Private\Player
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMedia\Private\Shared
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMedia\Private\Vlc
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MediaUtils
+/I Runtime\MediaUtils\Public
+/I Runtime\ImageWrapper\Public
+/I ThirdParty
+/I Runtime\Media\Public
+/I Runtime\Projects\Public
+/I Runtime\Json\Public
+/I Runtime\RenderCore\Public
+/I Runtime\RHI\Public
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Inc\VlcMediaFactory
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMediaFactory\Public
+/I G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Source\VlcMedia\Public
+/I ThirdParty\mimalloc\include
+/I ThirdParty\LibTiff\Source\Win64
+/I ThirdParty\LibTiff\Source
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/FI"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Definitions.VlcMedia.h"
+/Yu"..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+/Fo"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Module.VlcMedia.cpp.obj"
+/sourceDependencies G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Module.VlcMedia.cpp.json
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++17

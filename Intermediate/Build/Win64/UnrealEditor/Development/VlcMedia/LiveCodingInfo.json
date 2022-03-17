@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VlcMedia.cpp.obj": [
+			"VlcMediaCallbacks.cpp.obj",
+			"VlcMediaPlayer.cpp.obj",
+			"VlcMediaSource.cpp.obj",
+			"VlcMediaTracks.cpp.obj",
+			"VlcMediaView.cpp.obj",
+			"VlcMediaUtils.cpp.obj",
+			"VlcMediaModule.cpp.obj",
+			"Vlc.cpp.obj"
+		]
+	}
+}
