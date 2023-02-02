@@ -7,6 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
-"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Module.VlcMedia.cpp.obj"
+"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\Module.VlcMedia.cpp.obj"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
-/OUT:"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\UnrealEditor-VlcMedia.lib"
+/OUT:"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMedia\UnrealEditor-VlcMedia.lib"

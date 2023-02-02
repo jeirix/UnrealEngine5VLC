@@ -2,12 +2,10 @@
 	"RemapUnityFiles": 
 	{
 		"Module.VlcMediaFactory.cpp.obj": [
+			"VlcMediaFactory.init.gen.cpp.obj",
+			"VlcMediaSettings.gen.cpp.obj",
 			"VlcMediaFactoryModule.cpp.obj",
 			"VlcMediaFactorySettings.cpp.obj"
-		],
-		"Module.VlcMediaFactory.gen.cpp.obj": [
-			"VlcMediaFactory.init.gen.cpp.obj",
-			"VlcMediaSettings.gen.cpp.obj"
 		]
 	}
 }

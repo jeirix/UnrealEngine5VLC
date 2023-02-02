@@ -11,6 +11,7 @@
 /DELAY:UNLOAD
 /DLL
 /PDBALTPATH:%_PDB%
+/fastfail
 /OPT:NOREF
 /OPT:NOICF
 /INCREMENTAL:NO
@@ -18,8 +19,7 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\lib\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\lib\um\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -32,10 +32,9 @@
 /NODEFAULTLIB:"LIBCP"
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
-/FUNCTIONPADMIN
+/FUNCTIONPADMIN:6
 "..\Intermediate\Build\Win64\UnrealEditor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
-"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaFactory\Module.VlcMediaFactory.cpp.obj"
-"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaFactory\Module.VlcMediaFactory.gen.cpp.obj"
+"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaFactory\Module.VlcMediaFactory.cpp.obj"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\MediaAssets\UnrealEditor-MediaAssets.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
@@ -64,7 +63,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Binaries\Win64\UnrealEditor-VlcMediaFactory.dll"
-/IMPLIB:"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaFactory\UnrealEditor-VlcMediaFactory.suppressed.lib"
-/PDB:"G:\pluginUpgrade\MyProject\Plugins\VlcMedia\Binaries\Win64\UnrealEditor-VlcMediaFactory.pdb"
+/OUT:"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Binaries\Win64\UnrealEditor-VlcMediaFactory.dll"
+/IMPLIB:"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Intermediate\Build\Win64\UnrealEditor\Development\VlcMediaFactory\UnrealEditor-VlcMediaFactory.suppressed.lib"
+/PDB:"C:\Users\ADM_Administrator\Documents\Unreal Projects\myPluginTest\Plugins\VlcMedia\Binaries\Win64\UnrealEditor-VlcMediaFactory.pdb"
 /ignore:4078

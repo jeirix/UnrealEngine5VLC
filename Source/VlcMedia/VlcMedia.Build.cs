@@ -61,7 +61,7 @@ namespace UnrealBuildTool.Rules
 				RuntimeDependencies.Add(Path.Combine(VlcDirectory, "libvlccore.dylib"));
 				RuntimeDependencies.Add(Path.Combine(VlcDirectory, "libvlccore.9.dylib"));
 			}
-
+		
 			else if (Target.Platform == UnrealTargetPlatform.Win64)
 			{
 				RuntimeDependencies.Add(Path.Combine(VlcDirectory, "libvlc.dll"));
