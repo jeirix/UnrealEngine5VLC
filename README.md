@@ -13,12 +13,12 @@ to be fixed. Use in production is not yet recommended.
 
 Make sure to pull the *Tag* that matches your Unreal Engine version. If you sync
 to *Master* the code may not compile, because it may depend on Engine changes
-that are not yet available in the UE4 Master branch.
+that are not yet available in the UE5 Master branch.
 
 
 ## Supported Platforms
 
-This plug-in was last built against **Unreal Engine 5.10** and tested
+This plug-in was last built against **Unreal Engine 5.1.0** and tested
 against the following platforms:
 
 - ~~Linux (Ubuntu 16.04)~~
