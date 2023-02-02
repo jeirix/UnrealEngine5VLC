@@ -6,7 +6,7 @@ Unreal Engine 5 Media Framework plug-in using the Video LAN Codec (libvlc).
 ## About
 Thanks to Timo Helmers for this plugin.
 
-I just adapted and built for Unreal Engine 5.0.0 Preview 2
+I just adapted and built for Unreal Engine 5.1.0
 
 This plug-in is still under development and likely has a lot of remaining issues
 to be fixed. Use in production is not yet recommended.
@@ -23,7 +23,7 @@ against the following platforms:
 
 - ~~Linux (Ubuntu 16.04)~~
 - ~~Mac~~
-- Windows
+- Windows x64
 
 **IMPORTANT**: Please note that this repository contains pre-compiled binaries
 for libvlc and its plug-ins, which are licensed under LGPL. This means that you
