@@ -27,7 +27,7 @@ against the following platforms:
 
 **IMPORTANT**: Please note that this repository contains pre-compiled binaries
 for libvlc and its plug-ins, which are licensed under LGPL. This means that you
-cannot create monolithic builds of your game without violating LGPL, the UE4
+cannot create monolithic builds of your game without violating LGPL, the UE
 EULA or both. The libvlc libraries must remain dynamic libraries that are bound
 at run-time - static linking is not allowed - and the licensing related files in
 */ThirdParty/vlc* must be retained.
@@ -58,7 +58,7 @@ For debugging on Win32 and Win64, you can download debug builds and replace the
 corresponding files and folders in the *VlcMedia/ThirdParty/vlc/* directory.
 
 ### Linux (Ubuntu 16.04)
-
+--NOT TESTED--
 A suitable version of **libvlc** must be installed or compiled from source. If
 you ship your game on Linux, you will likely want to include libvlc with it, so
 that users don't have to install it themselves. We will eventually include those
@@ -71,7 +71,7 @@ run the *VlcMedia/Build/Vlc4LinuxCloneMakeInstall.sh* script from within your
 project's root folder. If you later need to make and re-install VLC from the
 existing VLC code, run the *Vlc4LinuxMakeInstall.sh* script instead.
 
-### Mac, Windows
+### Mac(NOT TESTED), Windows
 
 All required libraries and plug-ins are included in the *ThirdParty* directory
 and work out of the box.
@@ -80,7 +80,7 @@ and work out of the box.
 ## Dependencies
 
 This plug-in requires Visual Studio and either a C++ code project or the full
-Unreal Engine 4 source code from GitHub. If you are new to programming in UE4,
+Unreal Engine 4 source code from GitHub. If you are new to programming in UE,
 please see the official [Programming Guide](https://docs.unrealengine.com/latest/INT/Programming/index.html)! 
 
 
